@@ -20,3 +20,14 @@ nav a {
     font-size: 22 px;
     text-decoration: none;
 }
+
+.produtos{
+  width: 940 px;
+  margin: 0 auto;
+}
+
+.produtos li {
+   display: inline-block;
+   text-align: center;
+   width: 30%;
+}
