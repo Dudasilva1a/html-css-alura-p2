@@ -30,4 +30,15 @@ nav a {
    display: inline-block;
    text-align: center;
    width: 30%;
+   vertical-aling: top;
 }
+
+.produtos h2 {
+  fant-size: 30 px;
+  font-weight: bold;
+}
+
+
+
+
+
