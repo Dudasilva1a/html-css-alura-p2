@@ -32,15 +32,25 @@ nav a {
    text-align: center;
    width: 30%;
    vertical-aling: top;
+   background: #CCCCCC;
+   margin: 0 1.5%;
+   padding: 30 px 20 px;
+   box-sizing: border-box;
+   
 }
 .produtos h2 {
   font-size: 30 px;
   font-weight: bold;
 }
 
+.produtos-descricao {
+  font-size: 18 px;
+}
+
 .produtos-preco {
    font-size: 22 px;
    font-weight: bold;
+   margin-top: 10 px;
 }
 
 
