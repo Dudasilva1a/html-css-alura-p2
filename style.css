@@ -40,9 +40,9 @@ nav a:hover {
 }
 
 .produtos li {
-	display: inline-bloc
+	display: inline-block
 	text-align: center;
-	width: 30%;
+	width: 50%;
 	vertical-align: top;
 	margin: 0 1.4%;
 	padding: 30px 20px;
